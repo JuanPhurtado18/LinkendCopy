@@ -15,7 +15,11 @@ Este proyecto consiste en la maquetación completa del layout principal de Linke
 - Practicar HTML semántico  
 - Construir layouts complejos con Flexbox  
 - Organizar correctamente assets multimedia  
-- Aplicar estilos consistentes y reutilizables  
+- Aplicar estilos consistentes y reutilizables
+
+
+![image alt] (https://github.com/JuanPhurtado18/LinkendCopy/blob/ba854e4975ae7531f75c3151a68cb6a7e1c74fb5/imagen.png)
+
 
 
 
