@@ -18,7 +18,8 @@ Este proyecto consiste en la maquetación completa del layout principal de Linke
 - Aplicar estilos consistentes y reutilizables
 
 
-![image alt] (https://github.com/JuanPhurtado18/LinkendCopy/blob/ba854e4975ae7531f75c3151a68cb6a7e1c74fb5/imagen.png)
+![imagen Alt](https://github.com/JuanPhurtado18/LinkendCopy/blob/ba854e4975ae7531f75c3151a68cb6a7e1c74fb5/imagen.png)
+
 
 
 
